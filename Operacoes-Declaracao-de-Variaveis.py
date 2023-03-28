@@ -25,3 +25,5 @@ print("Total dos valores: ", VAL3)
 VALN = input("Informe o primeiro valor: ")
 VALM = input("Informe o segundo valor: ")
 print = ("Total dos valores: ", int(VALN) + int(VALM))
+
+
