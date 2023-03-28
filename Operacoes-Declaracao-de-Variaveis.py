@@ -21,3 +21,7 @@ VAL2 = int(VAL2)
 VAL3 = VAL1 + VAL2
 print("Total dos valores: ", VAL3)
 
+# Versão dois:
+VALN = input("Informe o primeiro valor: ")
+VALM = input("Informe o segundo valor: ")
+print = ("Total dos valores: ", int(VALN) + int(VALM))
