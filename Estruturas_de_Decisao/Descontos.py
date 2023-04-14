@@ -24,8 +24,8 @@ elif quantidade >=10:
 
 #não pode ter else se não vai dar desconto pra 1 produto
 
-calcdesc = total - (total * desconto)
+calcDesc = total - (total * desconto)
 
 print("Valor Total da Compra: ", total)
-print("Valor Total com Desconto: ", calcdesc)
-print("Economia: ", total - calcdesc)
+print("Valor Total com Desconto: ", calcDesc)
+print("Economia: ", total - calcDesc)
