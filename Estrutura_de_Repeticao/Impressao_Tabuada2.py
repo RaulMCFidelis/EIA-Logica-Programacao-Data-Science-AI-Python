@@ -1,3 +1,4 @@
+# Tabuada 2
 # Este programa deve ser igual ao anterior, porém, após a impressão, o programa deve perguntar se o usuário quer imprimir uma nova tabuada!
 # Se o usuário informar que sim, o usuário deve informar a nova tabuada, que será impressa
 # O programa só encerra quando o usuário informar que não quer uma nova impressão

@@ -1,3 +1,4 @@
+# Calculadora de Média
 # O Programa deve calcular a média dos números informados pelo usuário
 # Primeiro o programa deve perguntar, quantos números o usuário vai entrar
 # Em seguida ele pede para o usuário entrar cada um dos números
