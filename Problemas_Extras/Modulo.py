@@ -14,4 +14,4 @@ while valido == False:
     else:
         valido=True
 
-imprime(int1,int2)
+imprime(int1,int2) 
